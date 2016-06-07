@@ -1,0 +1,16 @@
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\bin\Debug\MultiScreen.dll
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\bin\Debug\MultiScreen.pdb
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\bin\Debug\MultiScreen.MultiScreen.apk
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\bin\Debug\MultiScreen.MultiScreen-Signed.apk
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\obj\Debug\MultiScreen.csprojResolveAssemblyReference.cache
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\obj\Debug\MultiScreen.dll
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\obj\Debug\MultiScreen.pdb
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\obj\Debug\android\bin\MultiScreen.MultiScreen.apk
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\obj\Debug\res\layout\main.xml
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\obj\Debug\res\values\strings.xml
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\obj\Debug\res\drawable\icon.png
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\obj\Debug\R.cs.flag
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreen\obj\Debug\uploadflags.txt
+C:\Users\Zachre\documents\visual studio 2013\Projects\MultiScreen\obj\Debug\res\layout\second.xml
+C:\Users\Zachre\documents\visual studio 2013\Projects\MultiScreen\obj\Debug\MultiScreen.dll.mdb
+C:\Users\Zachre\documents\visual studio 2013\Projects\MultiScreen\bin\Debug\MultiScreen.dll.mdb

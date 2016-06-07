@@ -1,0 +1,8 @@
+MultiScreenApp.FirstActivity, MultiScreenApp;md59679c6e8fcdadfbebeee8e10f11bf753.FirstActivity
+MultiScreenApp.FirstActivity, MultiScreenApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59679c6e8fcdadfbebeee8e10f11bf753.FirstActivity
+MultiScreenApp.FirstActivity;md59679c6e8fcdadfbebeee8e10f11bf753.FirstActivity
+multiscreenapp.FirstActivity;md59679c6e8fcdadfbebeee8e10f11bf753.FirstActivity
+MultiScreenApp.SecondActivity, MultiScreenApp;md59679c6e8fcdadfbebeee8e10f11bf753.SecondActivity
+MultiScreenApp.SecondActivity, MultiScreenApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59679c6e8fcdadfbebeee8e10f11bf753.SecondActivity
+MultiScreenApp.SecondActivity;md59679c6e8fcdadfbebeee8e10f11bf753.SecondActivity
+multiscreenapp.SecondActivity;md59679c6e8fcdadfbebeee8e10f11bf753.SecondActivity

@@ -1,0 +1,4 @@
+QuoteLifeCycle.MainActivity, QuoteLifeCycle;md572c45aef859b8cb70c72a1a4081e0368.MainActivity
+QuoteLifeCycle.MainActivity, QuoteLifeCycle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md572c45aef859b8cb70c72a1a4081e0368.MainActivity
+QuoteLifeCycle.MainActivity;md572c45aef859b8cb70c72a1a4081e0368.MainActivity
+quotelifecycle.MainActivity;md572c45aef859b8cb70c72a1a4081e0368.MainActivity

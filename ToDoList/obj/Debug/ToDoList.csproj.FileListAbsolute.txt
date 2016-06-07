@@ -1,0 +1,15 @@
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\bin\Debug\ToDoList.dll
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\bin\Debug\ToDoList.pdb
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\bin\Debug\ToDoList.ToDoList.apk
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\bin\Debug\ToDoList.ToDoList-Signed.apk
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\obj\Debug\ToDoList.dll
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\obj\Debug\ToDoList.pdb
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\obj\Debug\android\bin\ToDoList.ToDoList.apk
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\obj\Debug\res\layout\main.xml
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\obj\Debug\res\values\strings.xml
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\obj\Debug\res\drawable\icon.png
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\obj\Debug\R.cs.flag
+c:\users\zachre\documents\visual studio 2013\Projects\ToDoList\obj\Debug\uploadflags.txt
+C:\Users\Zachre\documents\visual studio 2013\Projects\ToDoList\obj\Debug\ToDoList.dll.mdb
+C:\Users\Zachre\documents\visual studio 2013\Projects\ToDoList\bin\Debug\ToDoList.dll.mdb

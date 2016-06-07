@@ -1,0 +1,15 @@
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\obj\Debug\QuoteLifeCycle.csprojResolveAssemblyReference.cache
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\bin\Debug\QuoteLifeCycle.dll
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\bin\Debug\QuoteLifeCycle.pdb
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\bin\Debug\QuoteLifeCycle.QuoteLifeCycle.apk
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\bin\Debug\QuoteLifeCycle.QuoteLifeCycle-Signed.apk
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\obj\Debug\QuoteLifeCycle.dll
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\obj\Debug\QuoteLifeCycle.pdb
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\obj\Debug\android\bin\QuoteLifeCycle.QuoteLifeCycle.apk
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\obj\Debug\res\layout\main.xml
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\obj\Debug\res\values\strings.xml
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\obj\Debug\res\drawable\icon.png
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\obj\Debug\R.cs.flag
+c:\users\zachre\documents\visual studio 2013\Projects\QuoteLifeCycle\obj\Debug\uploadflags.txt
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\QuoteLifeCycle\obj\Debug\QuoteLifeCycle.dll.mdb
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\QuoteLifeCycle\bin\Debug\QuoteLifeCycle.dll.mdb

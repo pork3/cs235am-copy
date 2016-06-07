@@ -1,0 +1,8 @@
+MultiScreen.MainActivity, MultiScreen;md5181932ec8fec25286d6a844b20c1874c.MainActivity
+MultiScreen.MainActivity, MultiScreen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5181932ec8fec25286d6a844b20c1874c.MainActivity
+MultiScreen.MainActivity;md5181932ec8fec25286d6a844b20c1874c.MainActivity
+multiscreen.MainActivity;md5181932ec8fec25286d6a844b20c1874c.MainActivity
+MultiScreen.secondActivity, MultiScreen;md5181932ec8fec25286d6a844b20c1874c.secondActivity
+MultiScreen.secondActivity, MultiScreen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5181932ec8fec25286d6a844b20c1874c.secondActivity
+MultiScreen.secondActivity;md5181932ec8fec25286d6a844b20c1874c.secondActivity
+multiscreen.secondActivity;md5181932ec8fec25286d6a844b20c1874c.secondActivity

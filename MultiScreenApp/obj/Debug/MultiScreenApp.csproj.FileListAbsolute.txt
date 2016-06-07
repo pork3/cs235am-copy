@@ -1,0 +1,16 @@
+c:\users\zachre\documents\visual studio 2013\Projects\MultiScreenApp\obj\Debug\MultiScreenApp.csprojResolveAssemblyReference.cache
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\bin\Debug\MultiScreenApp.dll
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\bin\Debug\MultiScreenApp.pdb
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\bin\Debug\MultiScreenApp.MultiScreenApp.apk
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\bin\Debug\MultiScreenApp.MultiScreenApp-Signed.apk
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\obj\Debug\MultiScreenApp.dll
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\obj\Debug\MultiScreenApp.pdb
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\obj\Debug\android\bin\MultiScreenApp.MultiScreenApp.apk
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\obj\Debug\res\layout\second.xml
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\obj\Debug\res\layout\main.xml
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\obj\Debug\res\values\strings.xml
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\obj\Debug\res\drawable\icon.png
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\obj\Debug\R.cs.flag
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\obj\Debug\uploadflags.txt
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\obj\Debug\MultiScreenApp.dll.mdb
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\MultiScreenApp\bin\Debug\MultiScreenApp.dll.mdb

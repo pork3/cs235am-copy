@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:id="@+id/showSecond"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Load Second Activity" />
+    <Button
+        android:id="@+id/showCount"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_clicked_text" />
+</LinearLayout>

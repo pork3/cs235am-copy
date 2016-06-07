@@ -1,0 +1,15 @@
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\bin\Debug\App1.dll
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\bin\Debug\App1.pdb
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\bin\Debug\App1.App1.apk
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\bin\Debug\App1.App1-Signed.apk
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\obj\Debug\App1.dll
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\obj\Debug\App1.pdb
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\obj\Debug\android\bin\App1.App1.apk
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\obj\Debug\res\layout\main.xml
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\obj\Debug\res\values\strings.xml
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\obj\Debug\res\drawable\icon.png
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\obj\Debug\R.cs.flag
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\obj\Debug\uploadflags.txt
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\obj\Debug\res\layout\back.xml
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\obj\Debug\App1.dll.mdb
+C:\Users\Zachre\documents\visual studio 2013\Projects\App1\bin\Debug\App1.dll.mdb

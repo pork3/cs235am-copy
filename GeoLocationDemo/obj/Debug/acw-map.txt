@@ -1,0 +1,4 @@
+GeoLocationDemo.MainActivity, GeoLocationDemo;md55617146b97e76f8e4c7637c33b8f2e22.MainActivity
+GeoLocationDemo.MainActivity, GeoLocationDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55617146b97e76f8e4c7637c33b8f2e22.MainActivity
+GeoLocationDemo.MainActivity;md55617146b97e76f8e4c7637c33b8f2e22.MainActivity
+geolocationdemo.MainActivity;md55617146b97e76f8e4c7637c33b8f2e22.MainActivity

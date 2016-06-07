@@ -1,0 +1,15 @@
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\bin\Debug\HelloAndroid.dll
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\bin\Debug\HelloAndroid.pdb
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\bin\Debug\HelloAndroid.HelloAndroid.apk
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\bin\Debug\HelloAndroid.HelloAndroid-Signed.apk
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\obj\Debug\HelloAndroid.csprojResolveAssemblyReference.cache
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\obj\Debug\HelloAndroid.dll
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\obj\Debug\HelloAndroid.pdb
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\obj\Debug\android\bin\HelloAndroid.HelloAndroid.apk
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\obj\Debug\res\layout\main.xml
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\obj\Debug\res\values\strings.xml
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\obj\Debug\R.cs.flag
+C:\Users\Zachre\documents\visual studio 2013\Projects\HelloAndroid\obj\Debug\uploadflags.txt
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\HelloAndroid\obj\Debug\HelloAndroid.dll.mdb
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\HelloAndroid\bin\Debug\HelloAndroid.dll.mdb

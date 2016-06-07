@@ -1,0 +1,15 @@
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\obj\Debug\ActivityLifeCycle.csprojResolveAssemblyReference.cache
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\bin\Debug\ActivityLifeCycle.dll
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\bin\Debug\ActivityLifeCycle.pdb
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\bin\Debug\ActivityLifeCycle.ActivityLifeCycle.apk
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\bin\Debug\ActivityLifeCycle.ActivityLifeCycle-Signed.apk
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\obj\Debug\ActivityLifeCycle.dll
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\obj\Debug\ActivityLifeCycle.pdb
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\obj\Debug\android\bin\ActivityLifeCycle.ActivityLifeCycle.apk
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\obj\Debug\res\layout\main.xml
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\obj\Debug\res\values\strings.xml
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\obj\Debug\res\drawable\icon.png
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\obj\Debug\R.cs.flag
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\obj\Debug\uploadflags.txt
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\obj\Debug\ActivityLifeCycle.dll.mdb
+C:\Users\Zachre\Documents\Visual Studio 2013\Projects\ActivityLifeCycle\bin\Debug\ActivityLifeCycle.dll.mdb

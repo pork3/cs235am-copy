@@ -1,0 +1,16 @@
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\bin\Debug\TideWaveAppListView.dll
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\bin\Debug\TideWaveAppListView.pdb
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\bin\Debug\TideWaveAppListView.TideWaveAppListView.apk
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\bin\Debug\TideWaveAppListView.TideWaveAppListView-Signed.apk
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\obj\Debug\TideWaveAppListView.csprojResolveAssemblyReference.cache
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\obj\Debug\TideWaveAppListView.dll
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\obj\Debug\TideWaveAppListView.pdb
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\obj\Debug\android\bin\TideWaveAppListView.TideWaveAppListView.apk
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\obj\Debug\res\layout\main.xml
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\obj\Debug\res\values\strings.xml
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\obj\Debug\res\drawable\icon.png
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\obj\Debug\R.cs.flag
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\obj\Debug\uploadflags.txt
+c:\users\zachre\documents\visual studio 2013\Projects\TideWaveAppListView\obj\Debug\res\layout\listviewrow.xml
+C:\Users\Zachre\documents\visual studio 2013\Projects\TideWaveAppListView\obj\Debug\TideWaveAppListView.dll.mdb
+C:\Users\Zachre\documents\visual studio 2013\Projects\TideWaveAppListView\bin\Debug\TideWaveAppListView.dll.mdb

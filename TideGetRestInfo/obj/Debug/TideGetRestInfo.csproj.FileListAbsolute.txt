@@ -1,0 +1,1 @@
+c:\users\zachre\documents\visual studio 2013\Projects\TideGetRestInfo\bin\Debug\TideGetRestInfo.exe.config
